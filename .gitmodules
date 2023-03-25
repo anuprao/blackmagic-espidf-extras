@@ -9,6 +9,6 @@ url = https://github.com/walmis/libesphttpd.git
 	path = ESP8266_RTOS_SDK
 	url = https://github.com/espressif/ESP8266_RTOS_SDK.git
 
-[submodule "components/blackmagic/blackmagic"]
+[submodule "blackmagic"]
 	path = components/blackmagic/blackmagic
-	url = https://github.com/blacksphere/blackmagic.git
+	url = https://github.com/anuprao/blackmagic.git
